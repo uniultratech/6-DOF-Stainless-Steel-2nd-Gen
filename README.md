@@ -3,9 +3,11 @@ The 2nd Generation 6 DOF Stainless-Steel Arm assemble guide
 
 ## Step 1: Verify the parts
 Unpack the package and check if the accessories are complete. The installation can continue after the confirmation is complete.
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92331266-5c890e00-f02a-11ea-9c78-3b20010c2829.png)
 
 Check all servo centering status before installation (eg 180 ° servo, the servo is guaranteed to be at 90°)
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92331268-5eeb6800-f02a-11ea-9e24-9b7421660fca.png)
 
 ## Assemble the robot
@@ -39,6 +41,7 @@ Note: please read the pictures carefully, each images in this guide is a step.
 
 ## Finish Up
 Congratulations, you have completed the assemble.
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92331308-817d8100-f02a-11ea-99a4-b4a54247b764.png)
 
 

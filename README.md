@@ -21,7 +21,6 @@ Note: please read the pictures carefully, each images in this guide is a step.
 ![alt text](https://user-images.githubusercontent.com/68445659/92331277-63b01c00-f02a-11ea-83cd-b1258090df83.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331285-732f6500-f02a-11ea-93e7-667e97a162c9.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331287-73c7fb80-f02a-11ea-9ab8-a717717cf6be.png)
-![alt text](https://user-images.githubusercontent.com/68445659/92331287-73c7fb80-f02a-11ea-9ab8-a717717cf6be.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331288-74609200-f02a-11ea-9654-1a94747d5188.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331290-74f92880-f02a-11ea-8a6e-de21345d0466.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331291-7591bf00-f02a-11ea-9c09-2c1d1674ffd9.png)
@@ -35,7 +34,7 @@ Note: please read the pictures carefully, each images in this guide is a step.
 ![alt text](https://user-images.githubusercontent.com/68445659/92331315-86dacb80-f02a-11ea-8010-284499d8e505.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331314-86423500-f02a-11ea-9a79-754289721892.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331531-32d0e680-f02c-11ea-90f0-9fa6d45f8102.png)
-![alt text](https://user-images.githubusercontent.com/68445659/92331311-85110800-f02a-11ea-973a-46e23ac9e0ee.png
+![alt text](https://user-images.githubusercontent.com/68445659/92331311-85110800-f02a-11ea-973a-46e23ac9e0ee.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92331309-83474480-f02a-11ea-8bae-464231dbca84.png)
 
 ## Finish Up
